@@ -45,6 +45,7 @@
 
 # Call for participation
 
+- [ ] Ticketing
 - [ ] Initial call for participation
 - [ ] Put out final call for participation
 
