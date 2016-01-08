@@ -46,7 +46,7 @@ language, etc.).
 The process for full membership is as follows,
 
 1. An issue must be created in this issue tracker proposing full membership for the project.
-2. The criterai listed above should be verified.
+2. The criteria listed above should be verified.
 3. Suitability of the project for becoming a full member should be discussed constructively.
 4. If there are no unaddressed objections to the projects full membership after a period of one week, then it will
 become a full member.
@@ -55,4 +55,4 @@ Note that,
 
 + Full membership status implies a degree of endorsement of the project by the other full members of Typelevel.
 + The criteria listed above should be actively maintained and if they cease to hold and that isn't rectified with a
-reasonable period then the projects membership might revert to incubator status or revoked.
+reasonable period then the project's membership might revert to incubator status or revoked.
