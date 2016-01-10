@@ -54,5 +54,5 @@ become a full member.
 Note that,
 
 + Full membership status implies a degree of endorsement of the project by the other full members of Typelevel.
-+ The criteria listed above should be actively maintained and if they cease to hold and that isn't rectified with a
-reasonable period then the project's membership might revert to incubator status or revoked.
++ The criteria listed above should be actively maintained and if they cease to hold and that isn't rectified within a
+reasonable period then the project's membership might revert to incubator status or be revoked.
