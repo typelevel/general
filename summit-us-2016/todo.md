@@ -2,7 +2,7 @@
 
 # Website
 
-- [ ] Create a website for the conference (in progress)
+- [x] Create a website for the conference
 - [ ] Post pre-conference resources
 - [ ] Post presentations/videos other resources post-conference
 
@@ -26,8 +26,8 @@
 
 # Programme committee
 
-- [ ] Collect PC nominations (in progress)
-- [ ] Select PC members
+- [x] Collect PC nominations
+- [x] Select PC members
 - [ ] Select PC chair
 - [ ] Arrange PC hangout schedule
 - [ ] Distribute anonymized proposals to PC
@@ -40,12 +40,12 @@
 
 # Talk mentoring/shepherding
 
-- [ ] Call for mentors/shepherds
+- [x] Call for mentors/shepherds
 - [ ] Allocate candidate speakers to mentors/shepherds
 
 # Call for participation
 
-- [ ] Ticketing
+- [x] Ticketing
 - [ ] Initial call for participation
 - [ ] Put out final call for participation
 
