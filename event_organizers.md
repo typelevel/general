@@ -8,6 +8,7 @@
 
 ## GB - United Kingdom
 * London: Kingsley Davies ([@kings13y](https://github.com/kings13y))
+* Brighton/London: Miles Sabin ([@milessabin])(https://github.com/milessabin))
 * London: Noel Markham ([@noelmarkham](https://github.com/noelmarkham))
 
 ## IT - Italy
