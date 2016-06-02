@@ -16,6 +16,7 @@
 
 ## PL - Poland
 * Pawel Szulc ([@rabbitonweb](https://github.com/rabbitonweb))
+* Marcin Matuszak ([@mrcmatuszak](github.com/mrcmatuszak)) - TL Summit as a part of Scalapolis.pl conference
 
 ## US - United States
 * NY, New York: Kailuo Wang ([@kailuowang](https://github.com/kailuowang))
