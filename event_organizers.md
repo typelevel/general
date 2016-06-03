@@ -10,6 +10,7 @@
 * London: Kingsley Davies ([@kings13y](https://github.com/kings13y))
 * Brighton/London: Miles Sabin ([@milessabin](https://github.com/milessabin))
 * London: Noel Markham ([@noelmarkham](https://github.com/noelmarkham))
+* London: Zainab Ali ([@zainab-ali](https://github.com/zainab-ali))
 
 ## IT - Italy
 * Milano: Gabriele Petronella ([@gabro](https://github.com/gabro))
