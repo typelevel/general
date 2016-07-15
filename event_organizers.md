@@ -25,3 +25,4 @@
 * NY, New York: Miguel Iglesias ([@caente](https://github.com/caente))
 * OR, Portland: Rob Norris ([@tpolecat](https://github.com/tpolecat))
 * OR, Portland: Shane Delmore ([@ShaneDelmore](https://github.com/ShaneDelmore))
+* PA, Philadelphia: Stephen Carman ([@hntd187](https://github.com/hntd187))
