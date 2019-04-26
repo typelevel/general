@@ -62,7 +62,7 @@ Perks for sponsoring companies include
 * Job posts (at $500/month level)
 * Training / Technical support (if we receive such donations)
 
-We reserve the right to respectfully reject sponsorship offers. 
+We reserve the right to respectfully decline sponsorship offers. 
 
 
 ## Typelevel libraries in the program
