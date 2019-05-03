@@ -58,7 +58,7 @@ We'll be relying on donations from corporation and individual users of the OSS l
 
 Perks for sponsoring companies include
 
-* Branding on our sponsors' list (at $200/month level)
+* Branding on our sponsors' list (at $200 per month or 100 paid employee hours per year)
 * Job posts (at $500/month level)
 * Training / Technical support (if we receive such donations)
 
