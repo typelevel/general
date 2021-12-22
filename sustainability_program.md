@@ -84,4 +84,4 @@ Please don't hesitate to reach out with questions. Our contact Email is sponsor-
 
 Thank you for reading this and considering supporting us.
 
-<a href="https://donorbox.org/typelevel-sustainability-program-2019?default_interval=m" target="_blank"><img src="https://d1iczxrky3cnb2.cloudfront.net/button-medium-red.png" /></a>
+<a href="https://opencollective.com/typelevel" target="_blank">OpenCollective</a>
