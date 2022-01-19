@@ -1,6 +1,6 @@
-## Typelevel admin repository
+## Archived
 
-This repository contains various documents and issues related to the general organization of the [Typelevel][1]
-organization.
-
-[1]: http://typelevel.org
+* Governance is now in the [governance repo](https://github.com/typelevel/governance) (public).
+* Maintainers can communicate internally via the [team discussion](https://github.com/orgs/typelevel/teams/maintainers).
+* Documentation tickets belong on [the website](https://github.com/typelevel/typelevel.github.com).
+* Moderation requests follow the [code of conduct](https://github.com/typelevel/.github/blob/main/CODE_OF_CONDUCT.md#moderation).
